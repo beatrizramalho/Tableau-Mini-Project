@@ -1,6 +1,6 @@
 # Tableau-Mini-Project
 
-# Project artefacts
+Project artefacts
 
 It is expected that your project contain (at least):
   - 2 (or more) dashboards
