@@ -48,36 +48,36 @@
 46,Domino,12.0,smoked beef,crunchy,medium,no,yes,3.4299999999999997
 47,Domino,17.0,chicken,new_york,XL,no,yes,5.81
 48,Domino,12.0,mushrooms,double_decker,medium,no,yes,6.72
-49,Hunt Brothers Pizza,8.5,tuna,spicy_tuna,small,yes,yes,2.73
-50,Hunt Brothers Pizza,12.0,tuna,spicy_tuna,medium,yes,yes,5.039999999999999
-51,Hunt Brothers Pizza,14.0,tuna,spicy_tuna,large,yes,yes,6.93
-52,Hunt Brothers Pizza,8.5,meat,BBQ_meat_fiesta,small,yes,no,3.0799999999999996
-53,Hunt Brothers Pizza,12.0,meat,BBQ_meat_fiesta,medium,no,no,5.46
-54,Hunt Brothers Pizza,14.0,meat,BBQ_meat_fiesta,large,yes,no,7.35
-55,Hunt Brothers Pizza,8.5,sausage,BBQ_sausage,small,no,yes,2.73
-56,Hunt Brothers Pizza,12.0,sausage,BBQ_sausage,medium,yes,yes,5.039999999999999
-57,Hunt Brothers Pizza,14.0,sausage,BBQ_sausage,large,no,yes,6.93
-58,Hunt Brothers Pizza,8.5,mushrooms,extravaganza,small,yes,yes,2.4499999999999997
-59,Hunt Brothers Pizza,12.0,onion,extravaganza,medium,yes,yes,4.199999999999999
-60,Hunt Brothers Pizza,14.0,mozzarella,extravaganza,large,yes,yes,6.859999999999999
-61,Hunt Brothers Pizza,8.5,meat,meat_eater,small,yes,yes,2.4499999999999997
-62,Hunt Brothers Pizza,12.0,meat,meat_eater,medium,yes,yes,4.199999999999999
-63,Hunt Brothers Pizza,14.0,meat,meat_eater,large,yes,yes,6.859999999999999
-64,Hunt Brothers Pizza,8.5,vegetables,gournet_greek,small,no,no,3.0799999999999996
-65,Hunt Brothers Pizza,12.0,vegetables,gournet_greek,medium,no,no,5.46
-66,Hunt Brothers Pizza,14.0,vegetables,gournet_greek,large,no,no,7.35
-67,Hunt Brothers Pizza,8.5,vegetables,italian_veggie,small,no,yes,1.9599999999999997
-68,Hunt Brothers Pizza,12.0,vegetables,italian_veggie,medium,no,yes,3.57
-69,Hunt Brothers Pizza,14.0,vegetables,italian_veggie,large,yes,yes,5.88
-70,Hunt Brothers Pizza,8.5,vegetables,thai_veggie,small,no,yes,2.73
-71,Hunt Brothers Pizza,12.0,vegetables,thai_veggie,medium,yes,no,5.039999999999999
-72,Hunt Brothers Pizza,14.0,vegetables,thai_veggie,large,no,no,6.93
-73,Hunt Brothers Pizza,8.5,beef,american_classic,small,yes,no,2.4499999999999997
-74,Hunt Brothers Pizza,12.0,beef,american_classic,medium,yes,no,4.199999999999999
-75,Hunt Brothers Pizza,14.0,beef,american_classic,large,yes,no,6.859999999999999
-76,Hunt Brothers Pizza,8.5,tuna,neptune_tuna,small,yes,no,2.2399999999999998
-77,Hunt Brothers Pizza,12.0,tuna,neptune_tuna,medium,yes,yes,3.78
-78,Hunt Brothers Pizza,14.0,tuna,neptune_tuna,large,yes,yes,6.4399999999999995
+49,Hunt Brothers,8.5,tuna,spicy_tuna,small,yes,yes,2.73
+50,Hunt Brothers,12.0,tuna,spicy_tuna,medium,yes,yes,5.039999999999999
+51,Hunt Brothers,14.0,tuna,spicy_tuna,large,yes,yes,6.93
+52,Hunt Brothers,8.5,meat,BBQ_meat_fiesta,small,yes,no,3.0799999999999996
+53,Hunt Brothers,12.0,meat,BBQ_meat_fiesta,medium,no,no,5.46
+54,Hunt Brothers,14.0,meat,BBQ_meat_fiesta,large,yes,no,7.35
+55,Hunt Brothers,8.5,sausage,BBQ_sausage,small,no,yes,2.73
+56,Hunt Brothers,12.0,sausage,BBQ_sausage,medium,yes,yes,5.039999999999999
+57,Hunt Brothers,14.0,sausage,BBQ_sausage,large,no,yes,6.93
+58,Hunt Brothers,8.5,mushrooms,extravaganza,small,yes,yes,2.4499999999999997
+59,Hunt Brothers,12.0,onion,extravaganza,medium,yes,yes,4.199999999999999
+60,Hunt Brothers,14.0,mozzarella,extravaganza,large,yes,yes,6.859999999999999
+61,Hunt Brothers,8.5,meat,meat_eater,small,yes,yes,2.4499999999999997
+62,Hunt Brothers,12.0,meat,meat_eater,medium,yes,yes,4.199999999999999
+63,Hunt Brothers,14.0,meat,meat_eater,large,yes,yes,6.859999999999999
+64,Hunt Brothers,8.5,vegetables,gournet_greek,small,no,no,3.0799999999999996
+65,Hunt Brothers,12.0,vegetables,gournet_greek,medium,no,no,5.46
+66,Hunt Brothers,14.0,vegetables,gournet_greek,large,no,no,7.35
+67,Hunt Brothers,8.5,vegetables,italian_veggie,small,no,yes,1.9599999999999997
+68,Hunt Brothers,12.0,vegetables,italian_veggie,medium,no,yes,3.57
+69,Hunt Brothers,14.0,vegetables,italian_veggie,large,yes,yes,5.88
+70,Hunt Brothers,8.5,vegetables,thai_veggie,small,no,yes,2.73
+71,Hunt Brothers,12.0,vegetables,thai_veggie,medium,yes,no,5.039999999999999
+72,Hunt Brothers,14.0,vegetables,thai_veggie,large,no,no,6.93
+73,Hunt Brothers,8.5,beef,american_classic,small,yes,no,2.4499999999999997
+74,Hunt Brothers,12.0,beef,american_classic,medium,yes,no,4.199999999999999
+75,Hunt Brothers,14.0,beef,american_classic,large,yes,no,6.859999999999999
+76,Hunt Brothers,8.5,tuna,neptune_tuna,small,yes,no,2.2399999999999998
+77,Hunt Brothers,12.0,tuna,neptune_tuna,medium,yes,yes,3.78
+78,Hunt Brothers,14.0,tuna,neptune_tuna,large,yes,yes,6.4399999999999995
 79,Little Caesars,18.5,mozzarella,meat_lovers,jumbo,no,yes,9.799999999999999
 80,Little Caesars,16.0,smoked beef,meat_lovers,jumbo,no,yes,7.699999999999999
 81,Little Caesars,8.0,chicken,meat_lovers,reguler,yes,yes,4.8999999999999995
@@ -98,33 +98,33 @@
 96,Little Caesars,12.0,chicken,classic,medium,no,yes,4.829999999999999
 97,Little Caesars,14.0,mushrooms,classic,large,no,yes,6.51
 98,Little Caesars,12.0,mushrooms,crunchy,medium,no,yes,5.249999999999999
-99,Papa John Pizza,17.0,mozzarella,new_york,XL,no,yes,8.049999999999999
-100,Papa John Pizza,8.5,mozzarella,classic,small,yes,no,1.6449999999999998
-101,Papa John Pizza,12.0,chicken,classic,medium,yes,no,3.2199999999999998
-102,Papa John Pizza,14.0,smoked beef,classic,large,yes,no,5.039999999999999
-103,Papa John Pizza,12.0,mozzarella,crunchy,medium,no,no,3.4299999999999997
-104,Papa John Pizza,17.0,chicken,new_york,XL,no,yes,5.81
-105,Papa John Pizza,12.0,chicken,double_decker,medium,no,yes,6.72
-106,Papa John Pizza,8.5,mushrooms,classic,small,yes,yes,2.17
-107,Papa John Pizza,12.0,chicken,classic,medium,no,yes,4.829999999999999
-108,Papa John Pizza,14.0,mushrooms,classic,large,no,yes,6.51
-109,Papa John Pizza,12.0,mushrooms,crunchy,medium,no,yes,5.249999999999999
-110,Papa John Pizza,17.0,mozzarella,new_york,XL,no,yes,8.049999999999999
-111,Papa John Pizza,12.0,smoked beef,double_decker,medium,yes,yes,8.61
-112,Papa John Pizza,8.5,chicken,classic,small,no,yes,2.3099999999999996
-113,Papa John Pizza,12.0,mozzarella,classic,medium,yes,yes,3.2199999999999998
-114,Papa John Pizza,14.0,chicken,classic,large,yes,yes,5.039999999999999
-115,Papa John Pizza,12.0,chicken,crunchy,medium,no,no,5.319999999999999
-116,Papa John Pizza,17.0,mushrooms,new_york,XL,yes,no,8.33
-117,Papa John Pizza,12.0,smoked beef,double_decker,medium,yes,no,8.854999999999999
-118,Papa John Pizza,8.5,smoked beef,classic,small,yes,yes,5.249999999999999
-119,Papa John Pizza,12.0,mushrooms,classic,medium,yes,yes,3.2199999999999998
-120,Papa John Pizza,14.0,mozzarella,classic,large,yes,yes,5.039999999999999
-121,Papa John Pizza,12.0,smoked beef,crunchy,medium,no,yes,3.4299999999999997
-122,Papa John Pizza,17.0,chicken,new_york,XL,no,yes,5.81
-123,Papa John Pizza,12.0,mushrooms,double_decker,medium,no,yes,6.72
-124,Papa John Pizza,8.5,tuna,spicy tuna,small,yes,yes,2.73
-125,Papa John Pizza,12.0,tuna,spicy tuna,medium,yes,yes,5.039999999999999
-126,Papa John Pizza,14.0,tuna,spicy tuna,large,yes,yes,6.93
-127,Papa John Pizza,8.5,meat,BBQ_meat_fiesta,small,yes,no,3.0799999999999996
-128,Papa John Pizza,12.0,meat,BBQ_meat_fiesta,medium,no,no,5.46
+99,Papa John,17.0,mozzarella,new_york,XL,no,yes,8.049999999999999
+100,Papa John,8.5,mozzarella,classic,small,yes,no,1.6449999999999998
+101,Papa John,12.0,chicken,classic,medium,yes,no,3.2199999999999998
+102,Papa John,14.0,smoked beef,classic,large,yes,no,5.039999999999999
+103,Papa John,12.0,mozzarella,crunchy,medium,no,no,3.4299999999999997
+104,Papa John,17.0,chicken,new_york,XL,no,yes,5.81
+105,Papa John,12.0,chicken,double_decker,medium,no,yes,6.72
+106,Papa John,8.5,mushrooms,classic,small,yes,yes,2.17
+107,Papa John,12.0,chicken,classic,medium,no,yes,4.829999999999999
+108,Papa John,14.0,mushrooms,classic,large,no,yes,6.51
+109,Papa John,12.0,mushrooms,crunchy,medium,no,yes,5.249999999999999
+110,Papa John,17.0,mozzarella,new_york,XL,no,yes,8.049999999999999
+111,Papa John,12.0,smoked beef,double_decker,medium,yes,yes,8.61
+112,Papa John,8.5,chicken,classic,small,no,yes,2.3099999999999996
+113,Papa John,12.0,mozzarella,classic,medium,yes,yes,3.2199999999999998
+114,Papa John,14.0,chicken,classic,large,yes,yes,5.039999999999999
+115,Papa John,12.0,chicken,crunchy,medium,no,no,5.319999999999999
+116,Papa John,17.0,mushrooms,new_york,XL,yes,no,8.33
+117,Papa John,12.0,smoked beef,double_decker,medium,yes,no,8.854999999999999
+118,Papa John,8.5,smoked beef,classic,small,yes,yes,5.249999999999999
+119,Papa John,12.0,mushrooms,classic,medium,yes,yes,3.2199999999999998
+120,Papa John,14.0,mozzarella,classic,large,yes,yes,5.039999999999999
+121,Papa John,12.0,smoked beef,crunchy,medium,no,yes,3.4299999999999997
+122,Papa John,17.0,chicken,new_york,XL,no,yes,5.81
+123,Papa John,12.0,mushrooms,double_decker,medium,no,yes,6.72
+124,Papa John,8.5,tuna,spicy tuna,small,yes,yes,2.73
+125,Papa John,12.0,tuna,spicy tuna,medium,yes,yes,5.039999999999999
+126,Papa John,14.0,tuna,spicy tuna,large,yes,yes,6.93
+127,Papa John,8.5,meat,BBQ_meat_fiesta,small,yes,no,3.0799999999999996
+128,Papa John,12.0,meat,BBQ_meat_fiesta,medium,no,no,5.46
